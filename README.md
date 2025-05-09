@@ -39,14 +39,10 @@ Running .fpy Scripts
 Once installed, you can easily run .fpy scripts with the fpy command:
 
 bash
-Copy
-Edit
 fpy <path_to_your_file>.fpy
 Example:
 
 bash
-Copy
-Edit
 fpy D:/scripts/example.fpy
 This will execute the .fpy script just like running a regular Python file.
 
@@ -57,15 +53,11 @@ File Association
 You can configure .fcon files or link them with executables using the following command:
 
 bash
-Copy
-Edit
 fcon configure <path_to_your_fcon_file>.fcon
 Linking File Types
 Link a file extension to an executable:
 
 bash
-Copy
-Edit
 fcon link .fpy fpy_runner.exe
 Uninstallation
 If you need to uninstall FPY and FCON, you can do so easily with the uninstaller included in the package.
