@@ -1,3 +1,5 @@
+if you are plannig on codeing with this for the fyp-vs-studio-addon visit https://github.com/gamminglord2012/fyp-vs-studio-addon
+
 FPY & FCON
 Overview
 FPY and FCON are custom tools and file formats designed to extend Python functionality for script handling and configuration management.
